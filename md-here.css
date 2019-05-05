@@ -45,19 +45,19 @@ pre code {
 }
 
 strong, b{
-  color: #7a96b9;
+  color: #5588a3;
 }
 
 em, i {
-  color: #7a96b9;
+  color: #5588a3;
 }
 
 a {
-  color: #7a96b9;
+  color: #5588a3;
 }
 
 hr {
-  border: 1px solid #7a96b9;
+  border: 1px solid #5588a3;
   margin: 1.5em auto;
   width: 80%;
 }
@@ -107,7 +107,7 @@ dl dd {
 }
 
 blockquote, q {
-  border-left: 2px solid #7a96b9;
+  border-left: 2px solid #5588a3;
   padding: 0 10px;
   color: #777;
   quotes: none;
@@ -127,7 +127,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 20px 0 10px;
   padding: 0;
   font-style: bold !important;
-  color: #7a96b9 !important;
+  color: #5588a3 !important;
   margin: 1.5em 5px !important;
   text-align: left !important;
 }
@@ -194,6 +194,6 @@ table tr th, table tr td {
 table tr th {
   font-weight: bold;
   color: #eee;
-  border: 1px solid #7a96b9;
-  background-color: #7a96b9;
+  border: 1px solid #5588a3;
+  background-color: #5588a3;
 }
